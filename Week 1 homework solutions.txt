@@ -1,7 +1,7 @@
  Convert 5400 inches to miles (0.085)
  Convert 16 days to seconds (1382000)
  Convert 54 yards to cm (4937.76)
- Convert 36 cm/sec to miles/hr (or mph)
+ Convert 36 cm/sec to miles/hr (or mph) (0.805297)
  Convert 0.109 kg/mL to lbs/g
  Convert 19 inches to ft
  Convert 0.422 kg/cm to lbs/ft
