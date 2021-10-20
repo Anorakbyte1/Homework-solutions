@@ -1,0 +1,8 @@
+ Convert 5400 inches to miles
+ Convert 16 days to seconds
+ Convert 54 yards to cm
+ Convert 36 cm/sec to miles/hr (or mph)
+ Convert 0.109 kg/mL to lbs/g
+ Convert 19 inches to ft
+ Convert 0.422 kg/cm to lbs/ft
+ Convert 32 ft/sec to yards/min
