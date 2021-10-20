@@ -4,5 +4,5 @@
  Convert 36 cm/sec to miles/hr (or mph) (0.805297)
  Convert 0.109 kg/mL to lbs/g (9909.634480812)
  Convert 19 inches to ft (1.5833333)
- Convert 0.422 kg/cm to lbs/ft
+ Convert 0.422 kg/cm to lbs/ft (28.357091)
  Convert 32 ft/sec to yards/min
